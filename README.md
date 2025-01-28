@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Amr Yahia
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach me on amryahia149@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Amr Yahia.
+- 👀 Ask me about statistics.
+- 🌱 I’m currently learning Data Analytics.
+- 💞️ I’m looking to collaborate on any amazing projects.
+- 📫 You can reach me on amryahia149@gmail.com
+  
 
 <!---
 Amryahia-Analyst/Amryahia-Analyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
