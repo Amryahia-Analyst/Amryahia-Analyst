@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Amr Yahia.
-- 👀 Ask me about statistics.
-- 🌱 I’m currently learning Data Analytics.
-- 💞️ I’m looking to collaborate on any amazing projects.
-- 📫 You can reach me on amryahia149@gmail.com
-  
+👋 Hi, I’m Amr Yahia  
+🚀 Machine Learning Engineer | Data Analyst  
 
-<!---
-Amryahia-Analyst/Amryahia-Analyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Specializing in statistics, data analysis, and predictive modeling  
+💡 Skilled in Python, NumPy, Pandas, and building data-driven solutions  
+📊 Experienced in working with real-world datasets and analytical problem-solving  
+🌱 Currently advancing in Machine Learning, Deep Learning, and AI  
+
+💞️ Open to collaborating on innovative data and AI projects  
+📫 Contact: amryahia149@gmail.com
